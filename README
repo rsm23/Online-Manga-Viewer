@@ -1,0 +1,18 @@
+O.M.V is a free watching Manga script From Saif Lacrimosa
+This Script is a third-party script that you can add 
+to your website.
+O.M.V has a Responsive, Modern, and clean Design.
+
+How to install:
+	- Just Extract the script's archive on your desired folder on domain.
+
+How to Use:
+	- First open : "config.inc.php" :
+		► $omv_base_url -> URL where the script is installed, it must end with a slash.
+		► $omv_title -> Page Title
+		► $omv_credits -> Credits : Your Website's title
+
+Note:
+Please Don't Remove the credits;
+Wait For the updates;
+Thanks -> www.free-tuts.tk
